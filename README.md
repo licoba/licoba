@@ -1,8 +1,7 @@
 # Hi there 👋 
 
-[![foru17 stats](https://github-readme-stats.vercel.app/api?username=licoba&theme=dark&show_icons=true)](https://github.com/licoba)
 
-💻 App Developer / 📷 Weekend Photographer / 🎬 YouTuber
+💻 App Developer / 📷 Weekend Photographer 
 
 
 ## About Me
