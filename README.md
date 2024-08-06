@@ -9,7 +9,7 @@
 
 ## Work Experience
 
-- Jan 2021 - Present: App Developer at Timekettle, Shenzhen
+- Jan 2021 - Present:Android App Developer,Shenzhen
 
 ## Connect
 
